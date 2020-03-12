@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background-color: green;
+}
+h1   {
+    color: antiquewhite;
+    background-color:red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
+    font-size: 150%;
+p  {
+    color:  white;
+}
+
+
+
